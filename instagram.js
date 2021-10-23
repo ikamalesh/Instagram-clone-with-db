@@ -9,7 +9,7 @@ var form = document.getElementById('sheetdb-form');
             response => response.json()
         ).then((html) => {
             // you can put any JS code here
-            window.open("https://www.instagram.com/reel/COrqtHUBk0E/?igshid=t9w4lnt5888s","_self")
+            window.open("https://www.instagram.com/surveymonkey/","_self")
         });
         }
         
